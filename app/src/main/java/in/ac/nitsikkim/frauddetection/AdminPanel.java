@@ -12,6 +12,9 @@ public class AdminPanel extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_admin_panel);
 
+        // code goes from here
+
+
 
     }
 }

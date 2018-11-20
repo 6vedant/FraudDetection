@@ -64,6 +64,8 @@ public class AdminPasswordCheck extends AppCompatActivity {
 
     }
 
+    // some comment out there
+
     private String getCurrentAdminPassword() {
 
         FirebaseDatabase.getInstance().getReference().child("admin").addValueEventListener(new ValueEventListener() {
